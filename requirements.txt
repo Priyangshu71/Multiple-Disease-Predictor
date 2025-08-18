@@ -1,0 +1,7 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+streamlit-option-menu
+scikit-learn
